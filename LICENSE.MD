@@ -17,3 +17,6 @@ You are free:
   Your fair dealing or fair use rights; Apart from the remix rights granted under this license, the author's moral rights; 
   Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights. 
   Notice — For any reuse or distribution, you must make clear to others the license terms of this work.
+
+3.
+  Final project shall be strictly made by yourself and shall not be copied. The project is submitted to CS50 and to VIT, Mumbai for the year of 2nd, BE Information Technology. The project has it's right of fair use by me and bunch of my collegues from the college. And is affilitated to VIT, Mumbai as well
